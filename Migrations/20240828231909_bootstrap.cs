@@ -5,7 +5,7 @@
 namespace Piadas.Migrations
 {
     /// <inheritdoc />
-    public partial class Iníciodaaplicação : Migration
+    public partial class bootstrap : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
